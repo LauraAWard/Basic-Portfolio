@@ -229,7 +229,7 @@ input[type=submit] {
 input[type=submit]:hover {
     background-color: #dddddd;
     color: #4aaaa5;
-    box-shadow: inset 0px 0px 4px #4aaaa5;
-    text-shadow: 2px 2px #ffffff;
+    box-shadow: inset 0px 0px 8px #666666;
+    text-shadow: 2px 2px 2px #666666;
 
 }
