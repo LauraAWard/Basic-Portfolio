@@ -97,7 +97,7 @@ main {
 }
 
 aside {
-	width: 245px;
+	width: 245px;  
 	background-color: #ffffff;
 	border: 2px solid;
 	border-color: #dddddd;
@@ -293,5 +293,16 @@ input[type=submit]:hover {
 	margin-right: -80px;
 	left: 0;
 	top: 155px;
+
+}
+
+.project-label:hover {
+
+	color: #4aaaa5;
+	background-color: #ffffff;
+	border: #dddddd 1px solid;
+	width: 263px;
+	height: 58px;
+
 
 }
