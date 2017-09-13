@@ -78,6 +78,10 @@ h4 {
 
 }
 
+p {
+	line-height: 2;
+}
+
 nav {
 	margin-left: 825px;
 	padding-top: 45px;
@@ -183,6 +187,12 @@ input[type=submit]:hover {
 
 }
 
+.nav-link:hover {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #4aaaa5;
+	text-decoration: underline;
+
+}
 
 .connect-links {
 	height: 60px;
@@ -209,7 +219,7 @@ input[type=submit]:hover {
 	float: left;
 	margin-right: 25px;
 	vertical-align: text-top;
-	padding-bottom: 25px;
+	padding-bottom: 20px;
 }
 
 #social {
